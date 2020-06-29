@@ -1,2 +1,2 @@
-# Send-Multi-Mail
+# Version RAR to download
 Send mail to 1 and more people...
